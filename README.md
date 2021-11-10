@@ -6,7 +6,7 @@ If you'd like, you can check out my portfolio site [here](https://qiqi.dev), or 
 
 #### I'm currently working on:
 * Improving my knowledge of React and JS
-* Creatin' another React app (a drawing game 🎨)
+* Learnin' some back-end (MongoDB, Express.js, Node.js)
 
 <!--
 **yqliau/yqliau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
