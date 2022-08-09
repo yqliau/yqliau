@@ -1,12 +1,4 @@
-### Hello and welcome 🙂
-
-I'm a developer based out of Toronto, Canada. 
-
-If you'd like, you can check out my portfolio site [here](https://qiqi.dev), or take a gander through any of my repos.
-
-#### I'm currently working on:
-* Improving my knowledge of React and JS
-* Learnin' some back-end (MongoDB, Express.js, Node.js)
+Hello!
 
 <!--
 **yqliau/yqliau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
